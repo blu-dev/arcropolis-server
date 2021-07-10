@@ -1,0 +1,236 @@
+Loading the arc...
+Loaded the arc.
+fighter/jack/model/body/c04/alp_jack_001_nor.nutexb
+FileInfoToFileData {
+    folder_offset_index: 0xb351,
+    file_data_index: FileDataIdx(
+        0x4179b,
+    ),
+    file_info_index_and_flag: 0x300e68e,
+}
+fighter/jack/model/body/c04/alp_jack_001_prm.nutexb
+FileInfoToFileData {
+    folder_offset_index: 0xb351,
+    file_data_index: FileDataIdx(
+        0x4179c,
+    ),
+    file_info_index_and_flag: 0x300e68f,
+}
+fighter/jack/model/body/c04/alp_jack_002_col.nutexb
+FileInfoToFileData {
+    folder_offset_index: 0xb351,
+    file_data_index: FileDataIdx(
+        0x4179d,
+    ),
+    file_info_index_and_flag: 0x300e690,
+}
+fighter/jack/model/body/c04/alp_jack_002_nor.nutexb
+FileInfoToFileData {
+    folder_offset_index: 0xb351,
+    file_data_index: FileDataIdx(
+        0x4179e,
+    ),
+    file_info_index_and_flag: 0x300e691,
+}
+fighter/jack/model/body/c04/alp_jack_002_prm.nutexb
+FileInfoToFileData {
+    folder_offset_index: 0xb351,
+    file_data_index: FileDataIdx(
+        0x4179f,
+    ),
+    file_info_index_and_flag: 0x300e692,
+}
+fighter/jack/model/body/c04/alp_jack_003_col.nutexb
+FileInfoToFileData {
+    folder_offset_index: 0xb351,
+    file_data_index: FileDataIdx(
+        0x417a0,
+    ),
+    file_info_index_and_flag: 0x300e693,
+}
+fighter/jack/model/body/c04/alp_jack_003_nor.nutexb
+FileInfoToFileData {
+    folder_offset_index: 0xb351,
+    file_data_index: FileDataIdx(
+        0x417a1,
+    ),
+    file_info_index_and_flag: 0x300e694,
+}
+fighter/jack/model/body/c04/alp_jack_003_prm.nutexb
+FileInfoToFileData {
+    folder_offset_index: 0xb351,
+    file_data_index: FileDataIdx(
+        0x417a2,
+    ),
+    file_info_index_and_flag: 0x300e695,
+}
+fighter/jack/model/body/c04/def_jack_003_col.nutexb
+FileInfoToFileData {
+    folder_offset_index: 0xb351,
+    file_data_index: FileDataIdx(
+        0x417a3,
+    ),
+    file_info_index_and_flag: 0x300e69f,
+}
+fighter/jack/model/body/c04/def_jack_003_nor.nutexb
+FileInfoToFileData {
+    folder_offset_index: 0xb351,
+    file_data_index: FileDataIdx(
+        0x417a4,
+    ),
+    file_info_index_and_flag: 0x300e6a0,
+}
+fighter/jack/model/body/c04/def_jack_003_prm.nutexb
+FileInfoToFileData {
+    folder_offset_index: 0xb351,
+    file_data_index: FileDataIdx(
+        0x417a5,
+    ),
+    file_info_index_and_flag: 0x300e6a1,
+}
+fighter/jack/model/body/c04/def_jack_004_col.nutexb
+FileInfoToFileData {
+    folder_offset_index: 0xb351,
+    file_data_index: FileDataIdx(
+        0x417a6,
+    ),
+    file_info_index_and_flag: 0x300e6a2,
+}
+fighter/jack/model/body/c04/def_jack_004_nor.nutexb
+FileInfoToFileData {
+    folder_offset_index: 0xb351,
+    file_data_index: FileDataIdx(
+        0x417a7,
+    ),
+    file_info_index_and_flag: 0x300e6a3,
+}
+fighter/jack/model/body/c04/def_jack_004_prm.nutexb
+FileInfoToFileData {
+    folder_offset_index: 0xb351,
+    file_data_index: FileDataIdx(
+        0x417a8,
+    ),
+    file_info_index_and_flag: 0x300e6a4,
+}
+fighter/jack/model/body/c04/eye_jack_b_l_col.nutexb
+FileInfoToFileData {
+    folder_offset_index: 0xb351,
+    file_data_index: FileDataIdx(
+        0x417a9,
+    ),
+    file_info_index_and_flag: 0x300e6a5,
+}
+fighter/jack/model/body/c04/eye_jack_b_r_col.nutexb
+FileInfoToFileData {
+    folder_offset_index: 0xb351,
+    file_data_index: FileDataIdx(
+        0x417aa,
+    ),
+    file_info_index_and_flag: 0x300e6a6,
+}
+fighter/jack/model/body/c04/eye_jack_g_l_col.nutexb
+FileInfoToFileData {
+    folder_offset_index: 0xb351,
+    file_data_index: FileDataIdx(
+        0x417ab,
+    ),
+    file_info_index_and_flag: 0x300e6a7,
+}
+fighter/jack/model/body/c04/eye_jack_g_r_col.nutexb
+FileInfoToFileData {
+    folder_offset_index: 0xb351,
+    file_data_index: FileDataIdx(
+        0x417ac,
+    ),
+    file_info_index_and_flag: 0x300e6a8,
+}
+fighter/jack/model/body/c04/eye_jack_w_col.nutexb
+FileInfoToFileData {
+    folder_offset_index: 0xb351,
+    file_data_index: FileDataIdx(
+        0x417ad,
+    ),
+    file_info_index_and_flag: 0x300e6a9,
+}
+fighter/jack/model/body/c04/eye_jack_w_nor.nutexb
+FileInfoToFileData {
+    folder_offset_index: 0xb351,
+    file_data_index: FileDataIdx(
+        0x417ae,
+    ),
+    file_info_index_and_flag: 0x300e6aa,
+}
+fighter/jack/model/body/c04/eye_jack_w_prm.nutexb
+FileInfoToFileData {
+    folder_offset_index: 0xb351,
+    file_data_index: FileDataIdx(
+        0x417af,
+    ),
+    file_info_index_and_flag: 0x300e6ab,
+}
+fighter/jack/model/body/c04/eye_mario_w_nor.nutexb
+FileInfoToFileData {
+    folder_offset_index: 0xb351,
+    file_data_index: FileDataIdx(
+        0x417b0,
+    ),
+    file_info_index_and_flag: 0x300e6ac,
+}
+fighter/jack/model/body/c04/lod.xmb
+FileInfoToFileData {
+    folder_offset_index: 0xb351,
+    file_data_index: FileDataIdx(
+        0x417b1,
+    ),
+    file_info_index_and_flag: 0x300e6ae,
+}
+fighter/jack/model/body/c04/skin_jack_001_col.nutexb
+FileInfoToFileData {
+    folder_offset_index: 0xb351,
+    file_data_index: FileDataIdx(
+        0x417b2,
+    ),
+    file_info_index_and_flag: 0x300e6b8,
+}
+fighter/jack/model/body/c04/skin_jack_001_nor.nutexb
+FileInfoToFileData {
+    folder_offset_index: 0xb351,
+    file_data_index: FileDataIdx(
+        0x417b3,
+    ),
+    file_info_index_and_flag: 0x300e6b9,
+}
+fighter/jack/model/body/c04/skin_jack_002_col.nutexb
+FileInfoToFileData {
+    folder_offset_index: 0xb351,
+    file_data_index: FileDataIdx(
+        0x417b4,
+    ),
+    file_info_index_and_flag: 0x300e6bb,
+}
+fighter/jack/model/body/c04/skin_jack_002_nor.nutexb
+FileInfoToFileData {
+    folder_offset_index: 0xb351,
+    file_data_index: FileDataIdx(
+        0x417b5,
+    ),
+    file_info_index_and_flag: 0x300e6bc,
+}
+fighter/jack/model/body/c04/skin_jack_002_prm.nutexb
+FileInfoToFileData {
+    folder_offset_index: 0xb351,
+    file_data_index: FileDataIdx(
+        0x417b6,
+    ),
+    file_info_index_and_flag: 0x300e6bd,
+}
+fighter/jack/model/fire2/c00/model.numatb
+FileInfoToFileData {
+    folder_offset_index: 0xb351,
+    file_data_index: FileDataIdx(
+        0x417b7,
+    ),
+    file_info_index_and_flag: 0x300e0d6,
+}
+Attempting to connect to server...
+Connected!
